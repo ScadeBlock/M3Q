@@ -1,4 +1,0 @@
-# M3Q
-+ VERSION: 1.0.0
-+ RELEASE DATE : 02.25.2023
-+ OWNER : DatCanFly
