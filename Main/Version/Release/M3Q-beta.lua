@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("M3Q 1.0.2 - STABLE [DATCANFLY]", "Ocean")
+local Window = Library.CreateLib("M3Q 1.0.2 - BETA [DATCANFLY]", "Ocean")
 local MAXFPS = 30 
 local FREEZEFPS = 1 
 setfpscap(MAXFPS)
