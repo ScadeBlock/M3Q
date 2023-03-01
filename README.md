@@ -9,3 +9,5 @@ A Roblox Script helps you reduce cpu when mainscreen is unactive or minimize
 + For BETA:
 
 `loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q-beta.lua")()`
+# Current Version
+M3Q 1.0.2 (RELEASE DATE 03.01.2023 - MM/DD/YY)
