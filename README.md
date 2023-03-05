@@ -1,15 +1,15 @@
 # M3Q
 A Roblox Script helps you reduce cpu when mainscreen is unactive or minimize
 # How to install
-+ Install a roblox script executor (e.g: Oxygen_U)
-+ Choose a version (STABLE or BETA)
++ Install a roblox script executor (e.g: JJSploit)
++ Choose a version (STABLE)
 + For STABLE:
 
 `loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q-stable.lua")()` 
-+ For BETA:
 
-`loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q-beta.lua")()`
 # Current Version
-M3Q 1.0.2 (RELEASE DATE 03.01.2023)
+M3Q 1.0.3 (RELEASE DATE:March 5 2023 - 03.05.2023)
 # Having problems?
 You can create a post in Issues page and i will answer as soon as i can.
+# Where is the BETA Version?
+BETA version is removed from version 1.0.3
