@@ -1,5 +1,5 @@
 # M3Q
-A Roblox Script helps you reduce cpu when mainscreen is unactive or minimize
+A Optimization Roblox Script. It helps you reduce cpu when mainscreen is unactive or minimize
 # How to install
 + Install a roblox script executor (e.g: JJSploit)
 + Choose a version (STABLE)
