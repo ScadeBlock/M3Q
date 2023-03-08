@@ -4,7 +4,7 @@ A Optimization Roblox Script. It helps you reduce cpu when mainscreen is unactiv
 + Install a roblox script executor (e.g: JJSploit)
 + Copy code below and paste it into roblox script
 
-`loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q-stable.lua")()` 
+`loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q.lua")()` 
 
 # Current Version
 M3Q 1.0.3 (RELEASE DATE:March 5 2023 - 03.05.2023)
