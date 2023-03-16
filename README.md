@@ -2,7 +2,7 @@
 A Optimization Roblox Script. It helps you reduce cpu when mainscreen is unactive or minimize
 # How to install
 + Install a roblox script executor (e.g: JJSploit)
-+ Copy code below and paste it into roblox script
++ Copy code below and paste it into roblox script box
 
 `loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q.lua")()` 
 
